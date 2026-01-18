@@ -15,4 +15,4 @@ A solução será completamente construída no Excel, com recursos que tornam a 
 - Organização por categorias de despesas e rendimentos
 
 ## 📸 Capturas de Tela
-![Menu de navegação](./images/menu-navegacao.png)
+![Menu de navegação](./images/)
